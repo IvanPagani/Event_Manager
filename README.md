@@ -6,4 +6,5 @@ Project from <a href="https://www.theodinproject.com/" target="_blank" rel="noop
 For some reason, it's not part of the Ruby Course anymore, but i'll keep it here.<br/>
 <br/>
 This project was made using:<br/>
-- RUBY.
+- RUBY;<br/>
+- HTML.
